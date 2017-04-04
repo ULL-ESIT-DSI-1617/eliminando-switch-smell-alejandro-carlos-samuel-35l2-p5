@@ -16,7 +16,7 @@
     <table>
         <tr>
             <th>Enter Temperature (examples: 32F to C, 45C F, -1.43e2f to k):</th>
-            <td><input id="original" autofocus onchange="calculate();" placeholder="32F to C" size="50"></td>
+            <td><input id="original" autofocus onchange="calculate(document.getElementById('original').value);" placeholder="32F to C" size="50"></td>
         </tr>
         <tr>
             <th>Converted Temperature:</th>

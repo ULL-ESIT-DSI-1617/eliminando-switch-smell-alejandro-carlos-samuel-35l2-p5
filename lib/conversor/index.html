@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>JavaScript Temperature Converter</title>
+
+    <script type="text/javascript" src="./js/main.js"></script>
+    <script type="text/javascript" src="./js/medida.js"></script>
+    <script type="text/javascript" src="./js/temperatura.js"></script>
+    <script type="text/javascript" src="./js/unidades.js"></script>
+</head>
+
+<body>
+    <h1>Temperature Converter</h1>
+    <table>
+        <tr>
+            <th>Enter Temperature (examples: 32F to C, 45C F, -1.43e2f to k):</th>
+            <td><input id="original" autofocus onchange="calculate();" placeholder="32F to C" size="50"></td>
+        </tr>
+        <tr>
+            <th>Converted Temperature:</th>
+            <td><span class="output" id="converted"></span></td>
+        </tr>
+    </table>
+</body>
+
+</html>

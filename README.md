@@ -30,7 +30,7 @@ https://ull-esit-dsi-1617.github.io/eliminando-switch-smell-alejandro-carlos-sam
 
 ## Despliegue en [Heroku](https://dashboard.heroku.com/login)
 
-* TODO
+https://cosaca-p7.herokuapp.com/
 
 ## URL del repositorio git:
 

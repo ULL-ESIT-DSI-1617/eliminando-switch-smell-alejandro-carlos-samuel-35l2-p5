@@ -6,10 +6,6 @@ Modifique el código de la [práctica anterior](https://github.com/ULL-ESIT-DSI-
 * Se distribuyan los ficheros separados de una manera racional.
 * La expresión regular necesaria para usar es un prefijo de la expresión regular usada en la conversión. Se plantea así el requisito de reciclar la expresión regular factorizando el código de las mismas.
 
-## Uso
-
-* TODO
-
 ## Miembros del equipo
 
 * [Alejandro Arzola](http://aleag.github.io)
@@ -26,7 +22,7 @@ https://casianorodriguezleon.gitbooks.io/ull-esit-1617/content/practicas/practic
 
 ## Despliegue en GitHub Pages:
 
-* TODO: https://ull-esit-dsi-1617.github.io/eliminando-switch-smell-alejandro-carlos-samuel-35l2-p5
+https://ull-esit-dsi-1617.github.io/eliminando-switch-smell-alejandro-carlos-samuel-35l2-p5
 
 ## Despliegue en [iaas.ull.es](iaas.ull.es):
 

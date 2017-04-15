@@ -1,0 +1,38 @@
+{
+  "name": "eliminando-switch-smell-alejandro-carlos-samuel-35l2-p5",
+  "version": "1.0.0",
+  "description": "Modifique el código de la [práctica anterior](https://github.com/ULL-ESIT-DSI-1617/programacion-orientada-a-objetos-y-herencia-en-javascript-alejandro-carlos-samuel-35l2-p5) de manera que: * Se eliminen todos los Switch Smell. * Se eliminen todas las debilidades señaladas en la [sección de debildiades](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/content/practicas/practicanoswitchsmell.html#debilidades). * Se distribuyan los ficheros separados de una manera racional. * La expresión regular necesaria para usar es un prefijo de la expresión regular usada en la conversión. Se plantea así el requisito de reciclar la expresión regular factorizando el código de las mismas.",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.17.1",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "express-session": "^1.15.2",
+    "gulp-shell": "^0.6.3",
+    "should": "^11.2.1",
+    "xregexp": "^3.1.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1617/eliminando-switch-smell-alejandro-carlos-samuel-35l2-p5.git"
+  },
+  "author": "Alejandro Arzola, Carlo de Armas, Samuel Valcárcel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/eliminando-switch-smell-alejandro-carlos-samuel-35l2-p5/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/eliminando-switch-smell-alejandro-carlos-samuel-35l2-p5#readme"
+}
